@@ -1,5 +1,11 @@
 # streamlit_portfilio
-#The portfolio include animatio, boxes, and an interactive connection part
+USED LIBRARIES
+1- pillow
+2- streamlit
+3- requests
+4- lottie
+
+The portfolio include animatio, boxes, and an interactive connection part
 
 ![Capture](https://user-images.githubusercontent.com/125836144/220926891-6107378f-9b02-4288-b7e1-b6ef70af87d2.JPG)
 ![nn](https://user-images.githubusercontent.com/125836144/220926919-bf07e2b6-e682-4cd6-99cd-abaf34e3601a.JPG)
